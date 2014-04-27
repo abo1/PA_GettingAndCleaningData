@@ -1,7 +1,6 @@
 ## Objetive: 
 ## Create a tidy data set with the average of severals variables for each activity and each subject.
 
-
 ##-----------------------------------------------------------------
 ## 1. Merges the training and the test sets to create one data set.
 ## ----------------------------------------------------------------
