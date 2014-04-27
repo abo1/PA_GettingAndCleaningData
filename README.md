@@ -72,3 +72,4 @@ Column names = “activity_id”, “activity_label”.
 * Drop innecesary objects.
 
 6.Write output file "sub_act_vars_means.txt"
+
